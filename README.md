@@ -32,8 +32,8 @@ A movie information site using the OMDB API to display trending movies, with rea
 ### Installation Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/movie-info-site.git
-   cd movie-info-site
+   git clone https://github.com/rushikeshkarkhane/omdb-api-integration-to-make-movies-information-site
+   cd omdb-api-integration-to-make-movies-information-site
    ```
 2. Install dependencies:
    ```sh
