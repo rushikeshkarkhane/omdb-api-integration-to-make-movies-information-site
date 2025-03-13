@@ -41,10 +41,6 @@ A movie information site using the OMDB API to display trending movies, with rea
    ```
 3. Replace `[your api key]` with your OMDB API key in the appropriate file.
    - Get your API key from [OMDB API](https://www.omdbapi.com/)
-   - Add it to an `.env` file:
-     ```sh
-     REACT_APP_OMDB_API_KEY=[your api key]
-     ```
 4. Start the development server:
    ```sh
    npm start
