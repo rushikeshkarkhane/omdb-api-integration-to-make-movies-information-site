@@ -56,7 +56,7 @@ A movie information site using the OMDB API to display trending movies, with rea
 ## Technologies Used
 - React.js
 - OMDB API
-- CSS for styling
+- Talwind for styling
 
 ## Screenshots
 ![page](./screenshots/a.png)
